@@ -1,0 +1,1 @@
+This is where you place .json files to be beautified.

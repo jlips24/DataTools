@@ -1,0 +1,5 @@
+# General
+.DS_Store
+
+# I/O Files
+*.json
